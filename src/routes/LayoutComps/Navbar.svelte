@@ -5,7 +5,7 @@
 
 <!-- svelte-ignore a11y_consider_explicit_label -->
 <!-- svelte-ignore a11y_missing_attribute -->
-<div class="navbar bg-base-100 shadow-sm">
+<div {...$$restProps } class="navbar bg-base-100 shadow-sm">
     <div class="flex-none">
         <button class="btn btn-square btn-ghost">
             <img src="{ETVRIcon}" alt="ETVR">
