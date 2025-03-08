@@ -59,7 +59,10 @@
         "height": 600,
         "resizable": true,
         "title": "taurilearningyes",
-        "width": 800
+        "width": 800,
+        "minWidth": 500,
+        "minHeight": 500,
+        "theme": "Dark"
       }
     ]
   }
